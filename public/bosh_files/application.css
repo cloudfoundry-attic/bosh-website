@@ -65,6 +65,13 @@ code {
   -webkit-box-align: left;
   -moz-box-align: left; }
 
+#header-top
+{
+	height: 115px;
+	text-align: center;
+	
+}
+
 /* line 84, /Users/andre/src/bundler/bundler-site/source/stylesheets/application.sass */
 #contents {
   display: -webkit-box;
@@ -86,7 +93,7 @@ code {
   -webkit-box-align: right;
   -moz-box-align: right;
   width: 20%;
-  margin-top: 23.5px;
+  margin-top: 0px;
   padding: 0 15px;
   text-align: left; }
   /* line 97, /Users/andre/src/bundler/bundler-site/source/stylesheets/application.sass */
@@ -97,9 +104,7 @@ code {
       margin-left: 0; }
   /* line 103, /Users/andre/src/bundler/bundler-site/source/stylesheets/application.sass */
   #sidebar h2 {
-    font-size: 16px;
-    border-bottom: none;
-    margin: -5px; }
+ 	}
   /* line 108, /Users/andre/src/bundler/bundler-site/source/stylesheets/application.sass */
   #sidebar ul {
     background-color: rgba(0, 0, 0, 0.1);
